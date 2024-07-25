@@ -1,0 +1,10 @@
+node_modules
+dist
+.DS_Store
+.env
+
+# Ignore the output video from Git but not videos you import into src/.
+out
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
